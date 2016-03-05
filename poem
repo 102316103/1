@@ -1,4 +1,4 @@
-class try{
+class Try{
 	public static void main(String[] args){
 		System.out.println("唐 張繼  楓橋夜泊");
 		System.out.println("月落烏啼霜滿天,");
